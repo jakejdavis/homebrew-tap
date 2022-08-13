@@ -1,4 +1,4 @@
-class Tle < Formula
+class TmuxResurrectProfiles < Formula
   desc "A CLI for switching between multiple tmux-resurrect profiles "
   homepage "https://github.com/jakejdavis/tmux-resurrect-profiles"
   url "https://github.com/jakejdavis/tmux-resurrect-profiles/releases/download/v0.0.1/tmux-resurrect-profiles_v0.0.1_x86_64-apple-darwin.zip"
